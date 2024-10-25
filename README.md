@@ -1,25 +1,22 @@
 Hi there, I'm Radha Pachouri !👋
 
-<!--
-**Software Developer with a passion for Data Structures & Algorithms and strong problem-solving skills. My current tech stack includes Spring Boot, JAVA, and Amazon Web Services (AWS).As an enthusiastic team player, I am always eager to learn new technologies and collaborate with others to solve complex problems. With my creative problem-solving skills.
-ashish22113/ashish22113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
- I'm a software developer with a Bachelor's degree in Computer Science. My journey into the world of programming began during my graduation studies, where I developed a keen interest in the power and creativity of software development.
+Software Developer with a passion for Data Structures & Algorithms and strong problem-solving skills. My current tech stack includes Spring Boot, JAVA, and Amazon Web Services (AWS).As an enthusiastic team player, I am always eager to learn new technologies and collaborate with others to solve complex problems. With my creative problem-solving skills.
+
+🚀 About Me
+🎓 I'm a software developer with a Bachelor's degree in Computer Science. My journey into the world of programming began during my graduation studies, where I developed a keen interest in the power and creativity of software development.
 
 💻 Throughout my academic journey, I delved into various programming languages and technologies.
 
 💡 I am fascinated by the problem-solving aspect of software development and take pride in my ability to analyze complex challenges.
 
-⚡️ SkillsHere are some ideas to get you started:
-
-- 🔭 Programming Languages:: Java, SQL
+⚡️ Skills
+Programming Languages:: Java, SQL
 Frameworks: Spring Boot
 Databases: MySQL
 Version Control: Git
 Other Tools: Maven, IntelliJ IDEA
-💼 ExperienceI’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m💼 Experience
+💼 Experience
 Geekster (January 2023 - Present)
 Position: Trainee Software Developer
 🎓 Education
@@ -48,10 +45,4 @@ aws css3 git html5 java javascript mysql postman spring
 
 Radha-Pachouri
 
-Radha-Pachouri looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Radha-Pachouri
