@@ -1,9 +1,8 @@
                                                              Hi there, I'm Ashish Sharma !👋
 
-
+🚀 About Me
 Full Stack Developer with a passion for Data Structures & Algorithms and strong problem-solving skills. My current tech stack includes Python, MySQL, Frontend, Jupyter Notebook, Power BI. As an enthusiastic team player, I am always eager to learn new technologies and collaborate with others to solve complex problems. With my creative problem-solving skills.
 
-🚀 About Me
 🎓 I'm a  Fullstack Developer with a Bachelor's degree in. My journey into the world of programming began during my graduation studies, where I developed a keen interest in the power and creativity of software development, Data Analyst and Python AI.
 
 💻 Throughout my academic journey, I delved into various programming languages and technologies.
